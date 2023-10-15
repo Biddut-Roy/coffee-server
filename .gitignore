@@ -1,3 +1,4 @@
 node_modules
 .env
-.vercel/README.txt
+.vercel
+.REDME.txt
